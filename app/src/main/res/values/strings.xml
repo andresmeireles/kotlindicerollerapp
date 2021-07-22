@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="diceButtonLabel">Roll</string>
+    <string name="countUp">count up</string>
+    <string name="diceInitState">0</string>
+    <string name="seccond_dice">0</string>
+</resources>
